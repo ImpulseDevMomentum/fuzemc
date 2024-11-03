@@ -9,7 +9,7 @@ from utils.allowed_users import *
 class TicketSystem(commands.Cog):
     def __init__(self, bot):
         self.bot = bot
-        self.log_channel_id = 1284461511368249367
+        self.log_channel_id = 1234567890
         self.ticket_data_file = 'ticket_data.json'
         self.transcript_folder = 'transcripts'
         
