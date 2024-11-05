@@ -17,12 +17,12 @@ class WelcomeMessage(commands.Cog):
         embed = Embed(
             title=":wave: Hello!",
             description=(
-                f"Welcome, {member.mention} to the official Discord of server **fuzemc.net**\n\n"
+                f"Welcome, {member.mention} to the official Discord of server **server**\n\n"
                 "**We hope that you will stay "
                 "with us for more time!**\n\n"
-                "> <#1283717327866822747>\n"
-                "> <#1284502746959052943>\n\n"
-                "<:fuzemc:1284520852334841909> fuzemc.net - Dive into the adventure with us and make lasting memories!"
+                "> <#1234567890>\n"
+                "> <#1234567890>\n\n"
+                "<:fuzemc:1284520852334841909> server - Dive into the adventure with us and make lasting memories!"
             ),
             color=nextcord.Color.blue()
         )
