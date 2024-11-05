@@ -1,1 +1,4 @@
+# Paste your TOKEN here
+# DO NOT SHARE THIS TOKEN WITH ANYONE!
+
 TOKEN = ""
