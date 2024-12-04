@@ -6,6 +6,6 @@ This bot comes from the Minecraft server named fuzemc.net. The server was mainta
 
 I will **not** maintain this repository.
 
-Wish Logger JS: https://github.com/ImpulseDevMomentum/WishLoggerJS
-Wish Logger PY: https://github.com/ImpulseDevMomentum/WishLoggerPY
+Wish Logger JS: https://github.com/ImpulseDevMomentum/WishLoggerJS <br>
+Wish Logger PY: https://github.com/ImpulseDevMomentum/WishLoggerPY <br>
 FuzeMC: https://github.com/ImpulseDevMomentum/fuzemc
