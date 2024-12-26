@@ -9,4 +9,5 @@ I will **not** maintain this repository.
 Wish Logger JS: https://github.com/ImpulseDevMomentum/WishLoggerJS <br>
 Wish Logger PY: https://github.com/ImpulseDevMomentum/WishLoggerPY <br>
 FuzeMC: https://github.com/ImpulseDevMomentum/fuzemc <br>
-Lumen: https://github.com/ImpulseDevMomentum/Lumen
+Lumen: https://github.com/ImpulseDevMomentum/Lumen <br>
+Lumen IDE: https://github.com/ImpulseDevMomentum/Lumen-IDE <br>
